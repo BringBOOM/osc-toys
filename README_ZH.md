@@ -24,7 +24,7 @@
 
 ```bash
 git clone https://github.com/Sakura0721/osc-toys.git
-cd osc-toy
+cd osc-toys
 pip install -r requirements.txt
 ```
 
